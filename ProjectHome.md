@@ -1,0 +1,1 @@
+Advanced autoreplier plugin which is capable to execute custom actions depending on incoming messages in Miranda
